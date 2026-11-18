@@ -6,11 +6,11 @@
 
 An entry for make.fun's bounty "Sum up 18 November's world news in one image": one
 1024×1024 image that sums up the world's news of Wednesday, 18 November 2026 — a
-dense newspaper front page with 33 stories across nine region sections, from the
-APEC summit opening in Shenzhen and the Trump–Xi–Putin trilateral set for
-Thursday, to Nvidia's record $115.8B quarter, the Strait of Hormuz all but
-closed to tankers, the strikes on Kyiv's grid, the Siberia air crash, the DR
-Congo Ebola warning, COP31 in Antalya, and the day in sport and culture.
+dense three-column front page with pictogram-illustrated stories across nine
+region sections (APEC opening in Shenzhen and the Trump–Xi–Putin trilateral set
+for Thursday, Nvidia's record $115.8B quarter, the Strait of Hormuz all but
+closed, strikes on Kyiv's grid, the DR Congo Ebola warning, COP31 in Antalya
+and more) plus an "Also today" briefs ticker.
 
 The program is a one-liner: the image ships in the repository as `entry.png`, and
 `main.ts` copies it byte for byte into the output directory, so every run is
